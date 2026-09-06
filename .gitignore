@@ -2,6 +2,8 @@
 __pycache__/
 *.pyc
 *.docx
-!Odigies_v4.docx
-!Elena_style_example.docx
+!Odigies_v5.docx
+!Elena_style_guide_v2.docx
+!Desmeftiki_Entoli_Epaggelmatikou_Prosanatolismou_Koini_v3.docx
+!Desmeftiki_Entoli_Telikis_Anadiatyposis_v8.docx
 .streamlit/secrets.toml
